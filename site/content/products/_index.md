@@ -1,96 +1,73 @@
 ---
-title: Our Coffee
+title: Rekomendasi
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: Tools dan Aplikasi Favorit
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Ini daftar alat digital, aplikasi, dan layanan online yang kami suka pakai sendiri. Gak di-endorse, gak diiklanin — cuma rekomendasi tulus dari pengguna ke pengguna.
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        ✏️ **Notion, Obsidian, Tana**  
+        Untuk catatan dan second-brain digital. Tergantung kebutuhanmu, semua punya kelebihan masing-masing.
     - image: /img/illustrations-coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        📱 **Snapseed, Forest, Sleep Cycle**  
+        Aplikasi mobile kecil tapi berguna. Fokus, tidur, edit foto — santai tapi tetap produktif.
     - image: /img/illustrations-tutorials.svg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        🎨 **Canva, Figma**  
+        Desain cepat untuk yang awam atau kerja tim tanpa software berat.
     - image: /img/illustrations-meeting-space.svg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        ☁️ **Netlify, Github, Cloudflare**  
+        Tools untuk bikin dan jaga situs kayak ini. Banyak yang gratis, power-nya luar biasa.
 main:
-  heading: Great coffee with no compromises
+  heading: Rekomendasi Ini Organik
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Artinya? Bukan disponsori, bukan titipan. Hanya berdasarkan pengalaman nyata tim santaidikit.online.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Gambar alat-alat digital
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Ilustrasi kerja santai dengan laptop
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Screenshot aplikasi atau icon app
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Pengunjung Anonim
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      List tools-nya relatable dan pas buat yang gak mau ribet. Jadi pengen nyoba semuanya 😄
+  - author: Teman Digital
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Thanks udah ngasih rekomendasi jujur. Gak clickbait, gak terlalu teknis — pas.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Rekomendasi Gratisan
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Semua aplikasi yang kami rekomendasikan memiliki versi gratis. Coba dulu, suka baru upgrade.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - plan: Pemula
+      price: '0'
+      description: Cocok buat mulai coba-coba alat digital
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - Akses fitur dasar
+        - Dokumentasi lengkap
+        - Komunitas aktif
+    - plan: Produktif
+      price: '0–50k'
+      description: Buat kamu yang sudah mulai nyaman dan produktif
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Fitur tambahan
+        - Integrasi ke tools lain
+        - Tanpa iklan
+    - plan: Power User
+      price: 'Bebas'
+      description: Bebas pilih alat yang sesuai kebutuhan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Dukungan penuh
+        - Ekstensi dan integrasi lanjutan
+        - Custom workflow
 ---
-
-
