@@ -1,6 +1,6 @@
 ---
 title: Rekomendasi
-type: products
+type: rekomendasi
 image: /img/products-jumbotron.jpg
 intro:
   heading: Tools dan Aplikasi Favorit

@@ -14,7 +14,7 @@ intro:
     2. **Tips & trik** digital agar hidupmu lebih mudah  
     3. **Rekomendasi aplikasi** favorit  
     Semua disajikan dengan bahasa santai dan gaya ngobrol sehari-hari.
-products:
+rekomendasi:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
@@ -26,7 +26,7 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
-values:
+carapikir:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
     one of colonialism and mindless abuse of natural resources and human lives.
