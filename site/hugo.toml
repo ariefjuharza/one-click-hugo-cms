@@ -7,22 +7,3 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [params]
 images = ["img/og-image.jpg"]
 
-[[menu.main]]
-  name = "Beranda"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "Rekomendasi"
-  url = "/rekomendasi/"
-  weight = 2
-
-[[menu.main]]
-  name = "Cara Pikir"
-  url = "/cara-pikir/"
-  weight = 3
-
-[[menu.main]]
-  name = "Kontak"
-  url = "/contact/"
-  weight = 4
