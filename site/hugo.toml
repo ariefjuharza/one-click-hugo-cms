@@ -1,6 +1,6 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+baseurl = "https://santaidikit.online/"
+languageCode = "id-id"
+languageLang = "id"
 title = "santaidikit.online"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
